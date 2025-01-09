@@ -1,5 +1,5 @@
 ## 🚀 About Me
-Senior IT Engineer with 9+ years of experience in telecommunications and IT systems. Currently working in the Provisioning team at Orange, focusing on system integration and automation solutions.
+Senior IT Engineer with 10+ years of experience in telecommunications and IT systems. Currently working in the Provisioning team at Orange, focusing on system integration and automation solutions.
 
 ## 💼 Professional Experience
 - **Orange** (2016 - Present)
