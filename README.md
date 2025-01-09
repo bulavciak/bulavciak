@@ -18,7 +18,7 @@ Senior IT Engineer with 9+ years of experience in telecommunications and IT syst
 ## 🛠 Technical Skills
 - **Database:** SQL (Oracle), noSQL (Mongo)
 - **Web Development:** JavaScript, PHP, HTML, CSS
-- **Other:** VBA, PL/SQL
+- **Other:** VBA, PL/SQL, Python
 
 ## 🌟 Key Strengths
 - System Integration
